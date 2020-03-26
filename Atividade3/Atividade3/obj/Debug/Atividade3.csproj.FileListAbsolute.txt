@@ -1,0 +1,10 @@
+C:\Users\rafae\source\repos\Atividade3\Atividade3\bin\Debug\Atividade3.exe.config
+C:\Users\rafae\source\repos\Atividade3\Atividade3\bin\Debug\Atividade3.exe
+C:\Users\rafae\source\repos\Atividade3\Atividade3\bin\Debug\Atividade3.pdb
+C:\Users\rafae\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.Form1.resources
+C:\Users\rafae\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.Properties.Resources.resources
+C:\Users\rafae\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.exe
+C:\Users\rafae\source\repos\Atividade3\Atividade3\obj\Debug\Atividade3.pdb
