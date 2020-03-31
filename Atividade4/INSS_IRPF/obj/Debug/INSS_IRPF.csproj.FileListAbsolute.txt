@@ -1,0 +1,27 @@
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\bin\Debug\INSS_IRPF.exe.config
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\bin\Debug\INSS_IRPF.exe
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\bin\Debug\INSS_IRPF.pdb
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\obj\Debug\INSS_IRPF.csprojAssemblyReference.cache
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\obj\Debug\INSS_IRPF.Form1.resources
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\obj\Debug\INSS_IRPF.Properties.Resources.resources
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\obj\Debug\INSS_IRPF.csproj.GenerateResource.cache
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\obj\Debug\INSS_IRPF.exe
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\INSS_IRPF\INSS_IRPF\obj\Debug\INSS_IRPF.pdb
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\bin\Debug\INSS_IRPF.exe.config
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\bin\Debug\INSS_IRPF.exe
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\bin\Debug\INSS_IRPF.pdb
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.csprojAssemblyReference.cache
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.Form1.resources
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.Properties.Resources.resources
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.csproj.GenerateResource.cache
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.exe
+C:\Users\Gustavo Marengo\Desktop\FATEC\2 SEM\LP 2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.pdb
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\bin\Debug\INSS_IRPF.exe.config
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\bin\Debug\INSS_IRPF.exe
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\bin\Debug\INSS_IRPF.pdb
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.csprojAssemblyReference.cache
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.Form1.resources
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.Properties.Resources.resources
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.csproj.GenerateResource.cache
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.exe
+C:\Users\Gaio\Documents\FATEC\LP2\Atividade4\INSS_IRPF\obj\Debug\INSS_IRPF.pdb
