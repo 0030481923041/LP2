@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\bin\Debug\PMetodos1505.exe.config
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\bin\Debug\PMetodos1505.exe
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\bin\Debug\PMetodos1505.pdb
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.frmPrincipal.resources
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.Properties.Resources.resources
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.exe
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.pdb
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.frmExercicio2.resources
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.frmExercicio3.resources
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.frmExercicio4.resources
+C:\Users\rafae\source\repos\PMetodos1505\PMetodos1505\obj\Debug\PMetodos1505.frmExercicio5.resources
