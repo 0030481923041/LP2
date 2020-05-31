@@ -1,0 +1,14 @@
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.Form1.resources
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.frmExercicio1.resources
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.frmExercicio2.resources
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.Properties.Resources.resources
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\Atividade6\Atividade6\bin\Debug\Atividade6.exe.config
+C:\Users\rafae\source\repos\Atividade6\Atividade6\bin\Debug\Atividade6.exe
+C:\Users\rafae\source\repos\Atividade6\Atividade6\bin\Debug\Atividade6.pdb
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.csprojAssemblyReference.cache
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.exe
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.pdb
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.frmExercicio3.resources
+C:\Users\rafae\source\repos\Atividade6\Atividade6\obj\Debug\Atividade6.frmExercicio4.resources
