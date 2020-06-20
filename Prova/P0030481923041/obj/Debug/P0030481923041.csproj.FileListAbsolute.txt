@@ -1,0 +1,10 @@
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\bin\Debug\P0030481923041.exe.config
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\bin\Debug\P0030481923041.exe
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\bin\Debug\P0030481923041.pdb
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\obj\Debug\P0030481923041.Form1.resources
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\obj\Debug\P0030481923041.Properties.Resources.resources
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\obj\Debug\P0030481923041.csproj.GenerateResource.cache
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\obj\Debug\P0030481923041.csproj.CoreCompileInputs.cache
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\obj\Debug\P0030481923041.exe
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\obj\Debug\P0030481923041.pdb
+C:\Users\rafae\source\repos\P0030481923041\P0030481923041\obj\Debug\P0030481923041.csprojAssemblyReference.cache
