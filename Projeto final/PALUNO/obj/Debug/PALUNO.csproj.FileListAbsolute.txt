@@ -23,3 +23,16 @@ C:\Users\rafae\Desktop\Aulas\LP2\Projeto Final\PALUNO\PALUNO\obj\Debug\PALUNO.pd
 C:\Users\rafae\Desktop\Aulas\LP2\Projeto Final\PALUNO\PALUNO\bin\Debug\PALUNO.exe.config
 C:\Users\rafae\Desktop\Aulas\LP2\Projeto Final\PALUNO\PALUNO\bin\Debug\PALUNO.exe
 C:\Users\rafae\Desktop\Aulas\LP2\Projeto Final\PALUNO\PALUNO\bin\Debug\PALUNO.pdb
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.csprojAssemblyReference.cache
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.frmPrincipal.resources
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.frmAluno.resources
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.frmCidade.resources
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.frmSobre.resources
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.csproj.GenerateResource.cache
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.exe
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.pdb
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.Properties.Resources.resources
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\obj\Debug\PALUNO.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\bin\Debug\PALUNO.exe.config
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\bin\Debug\PALUNO.exe
+C:\Users\rafae\Desktop\Aulas\LP2\meu projeto\Projeto final\PALUNO\bin\Debug\PALUNO.pdb
